@@ -2,18 +2,11 @@
   "name": "delpotro",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "nodefirst.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node nodefirst.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/srinivasadusumili/Delpotro.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/srinivasadusumili/Delpotro/issues"
-  },
-  "homepage": "https://github.com/srinivasadusumili/Delpotro#readme"
+  "author": "srinu",
+  "license": "MIT"
 }
